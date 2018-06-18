@@ -1,0 +1,6 @@
+; {{{ The following lines were automatically added by DreamHost
+zend_extension=opcache.so
+; }}} That's all from DreamHost
+
+error_reporting = E_ALL
+display_errors = 1
