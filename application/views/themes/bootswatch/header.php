@@ -27,7 +27,7 @@
 			<li class="active"><a href="#" title="">Active Link</a></li>
 			<li><?=anchor('customer/mylist','Customers')?></li>
 			<li><?=anchor('customer/add','Add Customer')?></li>
-            <li><a href="<?php echo base_url().'pics/view'; ?>">Flickr</a>
+            <li><a href="<?php echo base_url();?>pics/index">Flickr</a>
               </li>
             
           </ul>
